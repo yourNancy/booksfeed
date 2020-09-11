@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/ceviche_one</item>
+        <item>@font/chewy</item>
+        <item>@font/copse</item>
+        <item>@font/kavoon</item>
+        <item>@font/margarine</item>
+        <item>@font/oleo_script_swash_caps</item>
+        <item>@font/redressed</item>
+        <item>@font/righteous</item>
+        <item>@font/trade_winds</item>
+    </array>
+</resources>

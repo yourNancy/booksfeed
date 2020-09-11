@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_books"
+            android:title="@string/title_book_recommendation"/>
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_search"
+            android:title="@string/title_search_book" />
+        <item
+            android:id="@+id/ISBNFragment"
+            android:icon="@drawable/ic_isbn"
+            android:title="@string/title_isbn" />
+        <item
+            android:id="@+id/wishlistFragment"
+            android:icon="@drawable/ic_wishlist"
+            android:title="@string/title_wishlist" />
+        <item
+            android:id="@+id/quotesFragment"
+            android:icon="@drawable/ic_quotes"
+            android:title="@string/title_quotes" />
+    </group>
+</menu>
